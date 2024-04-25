@@ -1,16 +1,16 @@
-.register {
+.login {
   height: 100vh;
   display: flex;
   align-items: center;
   justify-content: center;
 }
 
-.register form {
+.login form {
   display: flex;
   flex-direction: column;
 }
 
-.register form input {
+.login form input {
   width: 300px;
   margin: 5px;
   padding: 9px;
@@ -18,7 +18,7 @@
   border: 1px solid black;
 }
 
-.register form button {
+.login form button {
   width: 300px;
   margin: 5px;
   padding: 8px;
